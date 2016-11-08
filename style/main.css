@@ -21,6 +21,7 @@ h1 {
   margin-top: calc(50vh - 150px / 2);
 }
 a {
+  display: inline-block;
   text-decoration: none;
   color: #fff;
   animation: shake 0.1s ease infinite;
